@@ -15,7 +15,7 @@ host_ip2:host_port2
 ```
 
 
-# Dependiencies
+# Dependencies
 - psutil
 
 
